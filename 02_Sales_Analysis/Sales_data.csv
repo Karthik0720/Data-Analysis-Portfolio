@@ -1,0 +1,9 @@
+OrderID,Product,Category,Quantity,CostPrice,SellingPrice,Date
+1001,Pen,Stationery,10,10,15,2024-01-01
+1002,Book,Stationery,5,50,70,2024-01-02
+1003,Bag,Accessories,2,500,650,2024-01-03
+1004,Bottle,Accessories,4,200,260,2024-01-04
+1005,Pencil,Stationery,20,5,8,2024-01-05
+1006,Notebook,Stationery,6,40,60,2024-01-06
+1007,Wallet,Accessories,3,300,380,2024-01-07
+1008,Marker,Stationery,8,25,40,2024-01-08
