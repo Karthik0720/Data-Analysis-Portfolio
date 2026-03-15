@@ -1,0 +1,7 @@
+AccidentID,City,VehiclesInvolved,Injuries,Deaths,Weather
+1,Chennai,2,1,0,Clear
+2,Bangalore,3,2,1,Rain
+3,Delhi,4,3,1,Fog
+4,Mumbai,2,0,0,Clear
+5,Hyderabad,5,4,2,Rain
+6,Kolkata,3,1,0,Fog
