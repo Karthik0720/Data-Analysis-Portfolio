@@ -1,0 +1,7 @@
+EmployeeID,Department,Salary,Experience,Attrition
+1,IT,60000,3,No
+2,HR,45000,2,Yes
+3,Finance,70000,5,No
+4,IT,65000,4,No
+5,Sales,50000,3,Yes
+6,Finance,72000,6,No
